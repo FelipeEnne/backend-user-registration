@@ -1,0 +1,22 @@
+{
+  "name": "backend-user-registration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeEnne/backend-user-registration.git"
+  },
+  "author": "Felipe Enne Mendes Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeEnne/backend-user-registration/issues"
+  },
+  "homepage": "https://github.com/FelipeEnne/backend-user-registration#readme",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
